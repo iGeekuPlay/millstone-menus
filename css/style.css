@@ -21,7 +21,7 @@
 .container p {
   font-size: .9em;
   color: #777;
-  margin-bottom: 1.5em;
+  /*margin-bottom: 1.5em;*/
   font-style: italic;
 }
 
@@ -29,7 +29,7 @@
   float: right;
   font-weight: 700;
   width: 20%;
-  margin: .7em 0 1em 0;
+  /*margin: .7em 0 1em 0;*/
 }
 .group-header span {
   float: left;
@@ -51,6 +51,7 @@
 }*/
 h1 {
   color: #ffffff;
+  margin-block-start: 0em;
 }
 
 p {
